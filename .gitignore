@@ -1,14 +1,1 @@
 
-.DS_Store
-.gitattributes
-.vscode
-/plugins/__pycache__/
-__pycache__/
-*.session
-*.session-journal
-/venv/
-/downloads/
-/plugins/custom_modules
-.idea
-config.ini
-unknown_errors.txt
